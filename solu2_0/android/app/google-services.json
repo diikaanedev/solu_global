@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972885109742",
+    "project_id": "solu-2",
+    "storage_bucket": "solu-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972885109742:android:63e6e90b08f5bce70dbcff",
+        "android_client_info": {
+          "package_name": "com.example.solu2_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972885109742-2j1hr25r2e2236jnldncuoff9os65fnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCillaRby5YVXmuaS73oIWTdf9e_mQBGM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972885109742-2j1hr25r2e2236jnldncuoff9os65fnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393212521909",
+    "project_id": "choopperrman",
+    "storage_bucket": "choopperrman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393212521909:android:2f413e92674ddca9a77dfc",
+        "android_client_info": {
+          "package_name": "com.example.chopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393212521909-kh2t0e4qmpvea0acs0ks05cbito6dtg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-5XvWgg98YaWs5Wfeb7LNSUxXvFI0ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393212521909-kh2t0e4qmpvea0acs0ks05cbito6dtg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
